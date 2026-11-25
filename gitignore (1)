@@ -1,0 +1,4 @@
+node_modules/
+bots/auth_info/
+.env
+*.log
